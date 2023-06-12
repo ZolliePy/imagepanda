@@ -2,7 +2,7 @@
 
 ## About ImagePanda
 
-it is just a Test application on Insta like app based on Laravel, Inertia, Vue.
+it is just a Test application on Insta like app based on Laravel 10, Inertia, Vue.
 
 ## Code of Conduct
 
